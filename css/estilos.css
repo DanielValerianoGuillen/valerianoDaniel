@@ -1,0 +1,38 @@
+h1{
+    text-align:center;
+    color: blue;
+}
+img{
+    display:block;
+    margin:auto;
+    }
+#da{
+    text-align: center;
+  display: inline-block;
+  width: 100%;
+    color: blue;
+    font-size:xx-large;
+}
+h2{
+    text-align:center;
+    color: blue;
+
+    }
+#ni{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+        color: blue;
+    font-size:xx-large;
+    }
+#el{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+        color: blue;
+        font-size:xx-large;
+    }
+#daniel{
+    background-color: blue;
+    font-size: xx-large;
+}
